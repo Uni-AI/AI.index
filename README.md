@@ -5,4 +5,4 @@
 - [Zapier and ChatGPT With OpenAI Beginner's Guide To AI Automation | Tutorial For 2023](https://youtu.be/wzmX9sWB5Jg)
 - [Ai Automation Will Make You Rich in 2023 - Here's How](https://youtu.be/4sqiPJYMsLA)
 - [Use Ai To Sign Your First Client (NEVER Do Outreach Again)](https://youtu.be/uRjkBPIhAhk)
-- 
+- [Is DragGAN the Ultimate AI Photo Editing Tool? + Google Colab tutorial in 1 Click.](https://youtu.be/K2p2i62yoG4)
