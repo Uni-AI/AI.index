@@ -7,3 +7,4 @@
 - [Use Ai To Sign Your First Client (NEVER Do Outreach Again)](https://youtu.be/uRjkBPIhAhk)
 - [Is DragGAN the Ultimate AI Photo Editing Tool? + Google Colab tutorial in 1 Click.](https://youtu.be/K2p2i62yoG4)
 - [My Story: How AI Made Me a Millionaire at 20 Years Old](https://youtu.be/dm2SX0QjwME)
+- [Free Course: How I Made $200,000 With ChatGPT eBook Automation at 20 Years Old](https://youtu.be/Annsf5QgFF8)
