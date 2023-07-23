@@ -10,3 +10,4 @@
 - [Free Course: How I Made $200,000 With ChatGPT eBook Automation at 20 Years Old](https://youtu.be/Annsf5QgFF8)
 - [Create Successful Automations with Keap | BuildingBlocks with ana and Fuljens](https://youtu.be/nVQYNmfM5H4)
 - https://www.hackster.io/news/accelerate-ai-introducing-openvino-2023-0-b87e275901fa
+- [6 AI News Updates You Probably Missed](https://youtu.be/1Xe0xzb3Gdc)
