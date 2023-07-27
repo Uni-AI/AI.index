@@ -11,3 +11,4 @@
 - [Create Successful Automations with Keap | BuildingBlocks with ana and Fuljens](https://youtu.be/nVQYNmfM5H4)
 - https://www.hackster.io/news/accelerate-ai-introducing-openvino-2023-0-b87e275901fa
 - [6 AI News Updates You Probably Missed](https://youtu.be/1Xe0xzb3Gdc)
+- [Course: Machine Learning for Business Decision Optimization](https://youtu.be/JhImME2UgXQ)
