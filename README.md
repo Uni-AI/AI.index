@@ -12,3 +12,4 @@
 - https://www.hackster.io/news/accelerate-ai-introducing-openvino-2023-0-b87e275901fa
 - [6 AI News Updates You Probably Missed](https://youtu.be/1Xe0xzb3Gdc)
 - [Course: Machine Learning for Business Decision Optimization](https://youtu.be/JhImME2UgXQ)
+- [1:52:43 "Bot-operated news website," funny Reddit post & article](https://www.youtube.com/watch?v=0T52v3WlFBY&t=6763s)
