@@ -13,3 +13,4 @@
 - [6 AI News Updates You Probably Missed](https://youtu.be/1Xe0xzb3Gdc)
 - [Course: Machine Learning for Business Decision Optimization](https://youtu.be/JhImME2UgXQ)
 - [1:52:43 "Bot-operated news website," funny Reddit post & article](https://www.youtube.com/watch?v=0T52v3WlFBY&t=6763s)
+- [10 minutes paper (episode 27): LLM powered autonomous agents](https://youtu.be/_WIYPT5piaI)
