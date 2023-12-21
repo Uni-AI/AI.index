@@ -16,3 +16,4 @@
 - [10 minutes paper (episode 27): LLM powered autonomous agents](https://youtu.be/_WIYPT5piaI)
 - https://www.youtube.com/shorts/9w0K3-H8L1U
 - https://youtu.be/7h732qLxtAk
+- https://youtu.be/7xk5Rtmgoes
